@@ -47,3 +47,6 @@ Programa en Python para averiguar e imprimir cuantos multiplos de 7, y cuantos m
 
 ## Construcción
 - codigo implementado en el archivo programa2.py
+
+# Ejercicio No 3
+Programa en Python para leer una frase, y que indique cuántas veces está cada vocal en dicha frase.
